@@ -1,5 +1,8 @@
 _repo: Die-heimtuckischen-Champignons-und-andere-Geschichten_69604
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69604-h/images/cover.jpg
 creator:
   author:
     agent_name: Meyrink, Gustav
@@ -12,6 +15,8 @@ creator:
     - https://de.wikipedia.org/wiki/Gustav_Meyrink
     - https://en.wikipedia.org/wiki/Gustav_Meyrink
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69604#Die-heimtuckischen-Champignons-und-andere-Geschichten
 gutenberg_issued: '2022-12-22'
 identifiers:
   gutenberg: '69604'
